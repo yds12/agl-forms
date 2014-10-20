@@ -1,0 +1,17 @@
+Version and change log:
+
+---- 10/11/2011 ----
+
+0.2.1		TextField funcionando. Próximos passos: mais construtores, teclas do numpad.
+
+---- 09/11/2011 ----
+
+0.2.0		TextField criado e compilado. Faltam testes.
+
+---- 05/11/2011 ----
+
+0.1.0		Funcionamento completo do Button com novos construtores.
+
+----- 01/11/2011 -----
+
+0.0.1		Versão inicial. Classes Form, FormComponent e Button parcialmente completas.
