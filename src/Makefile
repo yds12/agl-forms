@@ -20,6 +20,10 @@ debug: form.cpp formcomponent.cpp button.cpp textfield.cpp
 test: test.cpp
 	g++ -g -fpermissive -o test test.cpp -lagl -lagl-text ../lib/libagl-forms.so
 
+# Install the AGL library (debug) on the system
+install_debug:
+	../install_debug.sh
+
 # Install the AGL library on the system
 install:
 	../install.sh
